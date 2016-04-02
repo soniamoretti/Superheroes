@@ -13,12 +13,14 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//
+//= require jquery.backstretch
 //= require_tree .
 
 = require jquery
 = require jquery_ujs
 = require turbolinks
-= require bootstrap/bootstrap
+
 = require jquery.backstretch
 = require_tree .
 =require_self
